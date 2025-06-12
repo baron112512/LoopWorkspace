@@ -291,7 +291,8 @@ jobs:
           dexcom_upload_readings \
           future_carbs_4h \
           override_sens \
-          now_line \ 
+          now_line \
+          lnl_icon \
           watch_title \
           2hlollipop \
           profiles \
